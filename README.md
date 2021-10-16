@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TinyCyber
+- Howdy, I’m @TinyCyber
 - 👀 I’m interested in DevOps, all kinds of coding, ML, AI, and expanding my own knowledge through teams
 - 🌱 I’m currently learning about everything, the more I learn, the more I need to know
 - 💞️ I’m looking to collaborate on basic to intermediate level applications
