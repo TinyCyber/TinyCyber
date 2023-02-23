@@ -1,7 +1,8 @@
 - Howdy, I’m @TinyCyber
 - 👀 I’m interested in DevOps, all kinds of coding, ML, AI, and expanding my own knowledge through teams
 - 🌱 I’m currently learning about everything, the more I learn, the more I need to know
-- 💞️ I’m looking to collaborate on basic to intermediate level applications
+-  Doctorate in Strategic Security and PhD in IT (Cybersecurity and Information Assurance)
+- 💞️ I’m looking to collaborate on basic to advanced level applications
 - 📫 How to reach me - chat with me on Linked in at TinyCyber or Twitter under the same handle
 
 <!---
